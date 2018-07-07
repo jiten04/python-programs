@@ -1,4 +1,5 @@
 ''' Program to transpose a matrix using list comprehension'''
+''' this is the basic transpose a matrix''' 
 
 X = [[12,7],
     [4 ,5],
